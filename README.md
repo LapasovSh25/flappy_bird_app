@@ -1,16 +1,1 @@
-# flappy_bird_app
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# flappy![Screenshot_1688828592](https://github.com/LapasovSh25/flappy_bird_app/assets/119427301/361ecb99-e93a-4c01-b9ba-ff60d500ab65)
